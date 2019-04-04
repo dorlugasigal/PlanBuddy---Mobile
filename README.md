@@ -1,10 +1,13 @@
-# JustAsk4Help
- JustAsk4Help is a hackathon project made for improving people with dissablities lives
+# PlanBuddy 
+ PlanBuddy is a hackathon project made for improving people with dissablities lives
+ by giving the parents the option to build a colorful and interactive full of pictures schedule
  
-![](https://www.campinglayole.com/wp-content/uploads/sites/5/2016/06/pictograms-nps-accessibility-low-vision-access.png)
+ 
+![](https://i.imgur.com/W97TEnJ.png)
 
 <p align="center">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg">
+    <img src="https://img.shields.io/badge/other license-SCE-blue.svg">
 </p>
 
 <p align="center">
@@ -27,10 +30,10 @@ You'll need to run the app using [Expo] App
 
 
 ## TO-DO
-- [ ] Build a mobile app
-- [ ] Build a web app
-- [ ] Build the server side
-- [ ] Add Documentation
+- [x] Build a mobile app
+- [x] Build a web app
+- [x] Build the server side
+- [x] Add Documentation
 - [ ] Add Media
 - [ ] Win the hackathon!
 
