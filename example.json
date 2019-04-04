@@ -1,0 +1,30 @@
+{
+    "_id" : "5ca512a5eb45be0b842a164d",
+    "parent id" : "0542222222",
+    "full name" : "child1",
+    "phone" : "0542223333",
+    "schedule" : [ 
+        {
+            "name" : "bus",
+            "image" : "https://i.kym-cdn.com/photos/images/newsfeed/000/173/576/Wat8.jpg?1315930535",
+            "actionList" : [ 
+                {
+                    "item1" : "wear seatbelt"
+                }, 
+                {
+                    "item2" : "sit up straight"
+                }
+            ],
+            "note" : null,
+            "state" : "unfinished"
+        }, 
+        {
+            "name" : "food",
+            "image" : "https://i.kym-cdn.com/photos/images/newsfeed/000/173/576/Wat8.jpg?1315930535",
+            "actionList" : null,
+            "note" : "have a nice day",
+            "state" : "unfinished"
+        }
+    ],
+    "state" : "unfinished"
+}
