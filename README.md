@@ -34,8 +34,8 @@ You'll need to run the app using [Expo] App
 - [x] Build a web app
 - [x] Build the server side
 - [x] Add Documentation
-- [ ] Add Media
-- [ ] Win the hackathon!
+- [x] Add Media
+- [x] Win the hackathon!
 
 
 ## License
